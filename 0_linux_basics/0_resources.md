@@ -10,7 +10,7 @@
 
 ## Repositories
 
-- [MM2090](https://github.com/gphanikumar/MM2090?tab=readme-ov-file#ubuntu-linux-commands) : Introdcution to scientific computing course by Prof. Gandham Phanikumar. \
+- [MM2090](https://github.com/gphanikumar/MM2090?tab=readme-ov-file#ubuntu-linux-commands) : Introduction to scientific computing course by Prof. Gandham Phanikumar. \
 Instructions: The initial part of the repo would contain a brief introduction to Linux. Refer that, other sections are for learning scientific computing. 
 <br><br>
 
