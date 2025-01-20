@@ -1,0 +1,2 @@
+- [Bandit Writeup](https://exploiitm.github.io/blog/resources/bandit_writeup/):
+Write-up for OverTheWire Bandit by Tushar Jain, Cybersecurity Club IITM.
