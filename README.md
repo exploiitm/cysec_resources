@@ -23,3 +23,4 @@ explain that better.
 
 - [Hactricks](https://book.hacktricks.xyz/) : HackTricks is an educational Wiki that compiles knowledge about cybersecurity lead by Carlos with hundreds of collaborators! It's a huge collection of hacking tricks that is updated by the community much as possible to keep it up to date.
 - [CTF101](https://ctf101.org)
+- [Basic python guide](https://exploiitm.github.io/blog/resources/resource1/)
